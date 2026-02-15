@@ -1,3 +1,3 @@
-fn main() {
-    println!("Hello, world!");
-}
+mod square_sums;
+
+fn main() {}
